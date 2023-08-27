@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboticsLabExam", "RoboticsLabExam\RoboticsLabExam.csproj", "{8D957C27-CD87-4BFC-BE40-6D01658E640B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoboticsLabExam", "RoboticsLabExam\RoboticsLabExam.csproj", "{8D957C27-CD87-4BFC-BE40-6D01658E640B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCetreData", "LearningCetreData\LearningCetreData.csproj", "{F6929A24-7CBA-45DE-81E1-8EF92C8E36D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningCetre.Data", "LearningCetreData\LearningCetre.Data.csproj", "{F6929A24-7CBA-45DE-81E1-8EF92C8E36D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCetreDomin", "LearningCetreDomin\LearningCetreDomin.csproj", "{C547C817-A6C8-4D60-91A0-A17D2B8CA7F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningCetre.Domain", "LearningCetreDomin\LearningCetre.Domain.csproj", "{C547C817-A6C8-4D60-91A0-A17D2B8CA7F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCetreService", "LearningCetreService\LearningCetreService.csproj", "{64282902-6719-4F7C-A409-72D201B672C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningCetre.Service", "LearningCetreService\LearningCetre.Service.csproj", "{64282902-6719-4F7C-A409-72D201B672C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
